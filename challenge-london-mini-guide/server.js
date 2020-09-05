@@ -48,17 +48,7 @@ app.get('/harrow/:service', function (req, res) {
 
 
             
-    }
-
-
-        
-    
-
-    if(service === 'hospitals'){
-      
-
-    }
-           
+    }    
 
     
     
